@@ -1,5 +1,5 @@
 import json
-import urllib
+import urllib.request
 from datetime import date, timedelta
 
 import typer 
@@ -22,7 +22,7 @@ def download(project):
     url = f"https://api.pepy.tech/api/v2/projects/{project}"
     req = urllib.request.Request(url=url, headers=header)
     txt = urllib.request.urlopen(req).read()
-    data = [{"date":k, "values": sum(v.values())} for k, v in json.loads(txt)['downloads'].items()]
+    data = [{"date":k, "downloads": sum(v.values()), "pkg": project} for k, v in json.loads(txt)['downloads'].items()]
     yesterday = str(date.today() - timedelta(days=1))
     for d in data:
         if d['date'] == yesterday:

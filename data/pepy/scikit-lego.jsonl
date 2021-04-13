@@ -1,90 +1,90 @@
-{"date": "2021-01-13", "values": 45}
-{"date": "2021-01-14", "values": 45}
-{"date": "2021-01-15", "values": 36}
-{"date": "2021-01-16", "values": 57}
-{"date": "2021-01-17", "values": 49}
-{"date": "2021-01-18", "values": 58}
-{"date": "2021-01-19", "values": 120}
-{"date": "2021-01-20", "values": 95}
-{"date": "2021-01-21", "values": 44}
-{"date": "2021-01-22", "values": 25}
-{"date": "2021-01-23", "values": 25}
-{"date": "2021-01-24", "values": 146}
-{"date": "2021-01-25", "values": 31}
-{"date": "2021-01-26", "values": 69}
-{"date": "2021-01-27", "values": 131}
-{"date": "2021-01-28", "values": 231}
-{"date": "2021-01-29", "values": 59}
-{"date": "2021-01-30", "values": 74}
-{"date": "2021-01-31", "values": 57}
-{"date": "2021-02-01", "values": 622}
-{"date": "2021-02-02", "values": 1157}
-{"date": "2021-02-03", "values": 96}
-{"date": "2021-02-04", "values": 110}
-{"date": "2021-02-05", "values": 88}
-{"date": "2021-02-06", "values": 94}
-{"date": "2021-02-07", "values": 199}
-{"date": "2021-02-08", "values": 108}
-{"date": "2021-02-09", "values": 204}
-{"date": "2021-02-10", "values": 324}
-{"date": "2021-02-11", "values": 94}
-{"date": "2021-02-12", "values": 44}
-{"date": "2021-02-13", "values": 79}
-{"date": "2021-02-14", "values": 23}
-{"date": "2021-02-15", "values": 118}
-{"date": "2021-02-16", "values": 57}
-{"date": "2021-02-17", "values": 80}
-{"date": "2021-02-18", "values": 141}
-{"date": "2021-02-19", "values": 100}
-{"date": "2021-02-20", "values": 46}
-{"date": "2021-02-21", "values": 77}
-{"date": "2021-02-22", "values": 135}
-{"date": "2021-02-23", "values": 55}
-{"date": "2021-02-24", "values": 149}
-{"date": "2021-02-25", "values": 59}
-{"date": "2021-02-26", "values": 140}
-{"date": "2021-02-27", "values": 122}
-{"date": "2021-02-28", "values": 124}
-{"date": "2021-03-01", "values": 142}
-{"date": "2021-03-02", "values": 359}
-{"date": "2021-03-03", "values": 347}
-{"date": "2021-03-04", "values": 117}
-{"date": "2021-03-05", "values": 105}
-{"date": "2021-03-06", "values": 154}
-{"date": "2021-03-07", "values": 32}
-{"date": "2021-03-08", "values": 220}
-{"date": "2021-03-09", "values": 165}
-{"date": "2021-03-10", "values": 166}
-{"date": "2021-03-11", "values": 335}
-{"date": "2021-03-12", "values": 173}
-{"date": "2021-03-13", "values": 35}
-{"date": "2021-03-14", "values": 138}
-{"date": "2021-03-15", "values": 179}
-{"date": "2021-03-16", "values": 262}
-{"date": "2021-03-17", "values": 303}
-{"date": "2021-03-18", "values": 129}
-{"date": "2021-03-19", "values": 227}
-{"date": "2021-03-20", "values": 26}
-{"date": "2021-03-21", "values": 69}
-{"date": "2021-03-22", "values": 227}
-{"date": "2021-03-23", "values": 180}
-{"date": "2021-03-24", "values": 159}
-{"date": "2021-03-25", "values": 83}
-{"date": "2021-03-26", "values": 94}
-{"date": "2021-03-27", "values": 91}
-{"date": "2021-03-28", "values": 211}
-{"date": "2021-03-29", "values": 213}
-{"date": "2021-03-30", "values": 119}
-{"date": "2021-03-31", "values": 88}
-{"date": "2021-04-01", "values": 173}
-{"date": "2021-04-02", "values": 291}
-{"date": "2021-04-03", "values": 126}
-{"date": "2021-04-04", "values": 223}
-{"date": "2021-04-05", "values": 235}
-{"date": "2021-04-06", "values": 183}
-{"date": "2021-04-07", "values": 240}
-{"date": "2021-04-08", "values": 168}
-{"date": "2021-04-09", "values": 111}
-{"date": "2021-04-10", "values": 43}
-{"date": "2021-04-11", "values": 39}
-{"date": "2021-04-12", "values": 183}
+{"date": "2021-01-13", "downloads": 45, "pkg": "scikit-lego"}
+{"date": "2021-01-14", "downloads": 45, "pkg": "scikit-lego"}
+{"date": "2021-01-15", "downloads": 36, "pkg": "scikit-lego"}
+{"date": "2021-01-16", "downloads": 57, "pkg": "scikit-lego"}
+{"date": "2021-01-17", "downloads": 49, "pkg": "scikit-lego"}
+{"date": "2021-01-18", "downloads": 58, "pkg": "scikit-lego"}
+{"date": "2021-01-19", "downloads": 120, "pkg": "scikit-lego"}
+{"date": "2021-01-20", "downloads": 95, "pkg": "scikit-lego"}
+{"date": "2021-01-21", "downloads": 44, "pkg": "scikit-lego"}
+{"date": "2021-01-22", "downloads": 25, "pkg": "scikit-lego"}
+{"date": "2021-01-23", "downloads": 25, "pkg": "scikit-lego"}
+{"date": "2021-01-24", "downloads": 146, "pkg": "scikit-lego"}
+{"date": "2021-01-25", "downloads": 31, "pkg": "scikit-lego"}
+{"date": "2021-01-26", "downloads": 69, "pkg": "scikit-lego"}
+{"date": "2021-01-27", "downloads": 131, "pkg": "scikit-lego"}
+{"date": "2021-01-28", "downloads": 231, "pkg": "scikit-lego"}
+{"date": "2021-01-29", "downloads": 59, "pkg": "scikit-lego"}
+{"date": "2021-01-30", "downloads": 74, "pkg": "scikit-lego"}
+{"date": "2021-01-31", "downloads": 57, "pkg": "scikit-lego"}
+{"date": "2021-02-01", "downloads": 622, "pkg": "scikit-lego"}
+{"date": "2021-02-02", "downloads": 1157, "pkg": "scikit-lego"}
+{"date": "2021-02-03", "downloads": 96, "pkg": "scikit-lego"}
+{"date": "2021-02-04", "downloads": 110, "pkg": "scikit-lego"}
+{"date": "2021-02-05", "downloads": 88, "pkg": "scikit-lego"}
+{"date": "2021-02-06", "downloads": 94, "pkg": "scikit-lego"}
+{"date": "2021-02-07", "downloads": 199, "pkg": "scikit-lego"}
+{"date": "2021-02-08", "downloads": 108, "pkg": "scikit-lego"}
+{"date": "2021-02-09", "downloads": 204, "pkg": "scikit-lego"}
+{"date": "2021-02-10", "downloads": 324, "pkg": "scikit-lego"}
+{"date": "2021-02-11", "downloads": 94, "pkg": "scikit-lego"}
+{"date": "2021-02-12", "downloads": 44, "pkg": "scikit-lego"}
+{"date": "2021-02-13", "downloads": 79, "pkg": "scikit-lego"}
+{"date": "2021-02-14", "downloads": 23, "pkg": "scikit-lego"}
+{"date": "2021-02-15", "downloads": 118, "pkg": "scikit-lego"}
+{"date": "2021-02-16", "downloads": 57, "pkg": "scikit-lego"}
+{"date": "2021-02-17", "downloads": 80, "pkg": "scikit-lego"}
+{"date": "2021-02-18", "downloads": 141, "pkg": "scikit-lego"}
+{"date": "2021-02-19", "downloads": 100, "pkg": "scikit-lego"}
+{"date": "2021-02-20", "downloads": 46, "pkg": "scikit-lego"}
+{"date": "2021-02-21", "downloads": 77, "pkg": "scikit-lego"}
+{"date": "2021-02-22", "downloads": 135, "pkg": "scikit-lego"}
+{"date": "2021-02-23", "downloads": 55, "pkg": "scikit-lego"}
+{"date": "2021-02-24", "downloads": 149, "pkg": "scikit-lego"}
+{"date": "2021-02-25", "downloads": 59, "pkg": "scikit-lego"}
+{"date": "2021-02-26", "downloads": 140, "pkg": "scikit-lego"}
+{"date": "2021-02-27", "downloads": 122, "pkg": "scikit-lego"}
+{"date": "2021-02-28", "downloads": 124, "pkg": "scikit-lego"}
+{"date": "2021-03-01", "downloads": 142, "pkg": "scikit-lego"}
+{"date": "2021-03-02", "downloads": 359, "pkg": "scikit-lego"}
+{"date": "2021-03-03", "downloads": 347, "pkg": "scikit-lego"}
+{"date": "2021-03-04", "downloads": 117, "pkg": "scikit-lego"}
+{"date": "2021-03-05", "downloads": 105, "pkg": "scikit-lego"}
+{"date": "2021-03-06", "downloads": 154, "pkg": "scikit-lego"}
+{"date": "2021-03-07", "downloads": 32, "pkg": "scikit-lego"}
+{"date": "2021-03-08", "downloads": 220, "pkg": "scikit-lego"}
+{"date": "2021-03-09", "downloads": 165, "pkg": "scikit-lego"}
+{"date": "2021-03-10", "downloads": 166, "pkg": "scikit-lego"}
+{"date": "2021-03-11", "downloads": 335, "pkg": "scikit-lego"}
+{"date": "2021-03-12", "downloads": 173, "pkg": "scikit-lego"}
+{"date": "2021-03-13", "downloads": 35, "pkg": "scikit-lego"}
+{"date": "2021-03-14", "downloads": 138, "pkg": "scikit-lego"}
+{"date": "2021-03-15", "downloads": 179, "pkg": "scikit-lego"}
+{"date": "2021-03-16", "downloads": 262, "pkg": "scikit-lego"}
+{"date": "2021-03-17", "downloads": 303, "pkg": "scikit-lego"}
+{"date": "2021-03-18", "downloads": 129, "pkg": "scikit-lego"}
+{"date": "2021-03-19", "downloads": 227, "pkg": "scikit-lego"}
+{"date": "2021-03-20", "downloads": 26, "pkg": "scikit-lego"}
+{"date": "2021-03-21", "downloads": 69, "pkg": "scikit-lego"}
+{"date": "2021-03-22", "downloads": 227, "pkg": "scikit-lego"}
+{"date": "2021-03-23", "downloads": 180, "pkg": "scikit-lego"}
+{"date": "2021-03-24", "downloads": 159, "pkg": "scikit-lego"}
+{"date": "2021-03-25", "downloads": 83, "pkg": "scikit-lego"}
+{"date": "2021-03-26", "downloads": 94, "pkg": "scikit-lego"}
+{"date": "2021-03-27", "downloads": 91, "pkg": "scikit-lego"}
+{"date": "2021-03-28", "downloads": 211, "pkg": "scikit-lego"}
+{"date": "2021-03-29", "downloads": 213, "pkg": "scikit-lego"}
+{"date": "2021-03-30", "downloads": 119, "pkg": "scikit-lego"}
+{"date": "2021-03-31", "downloads": 88, "pkg": "scikit-lego"}
+{"date": "2021-04-01", "downloads": 173, "pkg": "scikit-lego"}
+{"date": "2021-04-02", "downloads": 291, "pkg": "scikit-lego"}
+{"date": "2021-04-03", "downloads": 126, "pkg": "scikit-lego"}
+{"date": "2021-04-04", "downloads": 223, "pkg": "scikit-lego"}
+{"date": "2021-04-05", "downloads": 235, "pkg": "scikit-lego"}
+{"date": "2021-04-06", "downloads": 183, "pkg": "scikit-lego"}
+{"date": "2021-04-07", "downloads": 240, "pkg": "scikit-lego"}
+{"date": "2021-04-08", "downloads": 168, "pkg": "scikit-lego"}
+{"date": "2021-04-09", "downloads": 111, "pkg": "scikit-lego"}
+{"date": "2021-04-10", "downloads": 43, "pkg": "scikit-lego"}
+{"date": "2021-04-11", "downloads": 39, "pkg": "scikit-lego"}
+{"date": "2021-04-12", "downloads": 183, "pkg": "scikit-lego"}

@@ -1,90 +1,90 @@
-{"date": "2021-01-13", "values": 8}
-{"date": "2021-01-14", "values": 11}
-{"date": "2021-01-15", "values": 30}
-{"date": "2021-01-16", "values": 13}
-{"date": "2021-01-17", "values": 7}
-{"date": "2021-01-18", "values": 3}
-{"date": "2021-01-19", "values": 28}
-{"date": "2021-01-20", "values": 26}
-{"date": "2021-01-21", "values": 6}
-{"date": "2021-01-22", "values": 9}
-{"date": "2021-01-23", "values": 1}
-{"date": "2021-01-24", "values": 17}
-{"date": "2021-01-25", "values": 30}
-{"date": "2021-01-26", "values": 20}
-{"date": "2021-01-27", "values": 11}
-{"date": "2021-01-28", "values": 71}
-{"date": "2021-01-29", "values": 11}
-{"date": "2021-01-30", "values": 38}
-{"date": "2021-01-31", "values": 21}
-{"date": "2021-02-01", "values": 23}
-{"date": "2021-02-02", "values": 60}
-{"date": "2021-02-03", "values": 42}
-{"date": "2021-02-04", "values": 75}
-{"date": "2021-02-05", "values": 53}
-{"date": "2021-02-06", "values": 40}
-{"date": "2021-02-07", "values": 38}
-{"date": "2021-02-08", "values": 34}
-{"date": "2021-02-09", "values": 24}
-{"date": "2021-02-10", "values": 8}
-{"date": "2021-02-11", "values": 39}
-{"date": "2021-02-12", "values": 6}
-{"date": "2021-02-13", "values": 27}
-{"date": "2021-02-14", "values": 8}
-{"date": "2021-02-15", "values": 37}
-{"date": "2021-02-16", "values": 36}
-{"date": "2021-02-17", "values": 11}
-{"date": "2021-02-18", "values": 45}
-{"date": "2021-02-19", "values": 71}
-{"date": "2021-02-20", "values": 4}
-{"date": "2021-02-21", "values": 35}
-{"date": "2021-02-22", "values": 23}
-{"date": "2021-02-23", "values": 17}
-{"date": "2021-02-24", "values": 14}
-{"date": "2021-02-25", "values": 53}
-{"date": "2021-02-26", "values": 35}
-{"date": "2021-02-27", "values": 1}
-{"date": "2021-02-28", "values": 19}
-{"date": "2021-03-01", "values": 42}
-{"date": "2021-03-02", "values": 61}
-{"date": "2021-03-03", "values": 42}
-{"date": "2021-03-04", "values": 34}
-{"date": "2021-03-05", "values": 12}
-{"date": "2021-03-06", "values": 36}
-{"date": "2021-03-07", "values": 50}
-{"date": "2021-03-08", "values": 35}
-{"date": "2021-03-09", "values": 54}
-{"date": "2021-03-10", "values": 7}
-{"date": "2021-03-11", "values": 7}
-{"date": "2021-03-12", "values": 31}
-{"date": "2021-03-13", "values": 19}
-{"date": "2021-03-14", "values": 6}
-{"date": "2021-03-15", "values": 30}
-{"date": "2021-03-16", "values": 119}
-{"date": "2021-03-17", "values": 177}
-{"date": "2021-03-18", "values": 16}
-{"date": "2021-03-19", "values": 30}
-{"date": "2021-03-20", "values": 53}
-{"date": "2021-03-21", "values": 53}
-{"date": "2021-03-22", "values": 8}
-{"date": "2021-03-23", "values": 33}
-{"date": "2021-03-24", "values": 20}
-{"date": "2021-03-25", "values": 23}
-{"date": "2021-03-26", "values": 105}
-{"date": "2021-03-27", "values": 75}
-{"date": "2021-03-28", "values": 24}
-{"date": "2021-03-29", "values": 38}
-{"date": "2021-03-30", "values": 58}
-{"date": "2021-03-31", "values": 26}
-{"date": "2021-04-01", "values": 45}
-{"date": "2021-04-02", "values": 30}
-{"date": "2021-04-03", "values": 41}
-{"date": "2021-04-04", "values": 22}
-{"date": "2021-04-05", "values": 21}
-{"date": "2021-04-06", "values": 29}
-{"date": "2021-04-07", "values": 22}
-{"date": "2021-04-08", "values": 14}
-{"date": "2021-04-09", "values": 31}
-{"date": "2021-04-10", "values": 16}
-{"date": "2021-04-11", "values": 43}
-{"date": "2021-04-12", "values": 26}
+{"date": "2021-01-13", "downloads": 8, "pkg": "human-learn"}
+{"date": "2021-01-14", "downloads": 11, "pkg": "human-learn"}
+{"date": "2021-01-15", "downloads": 30, "pkg": "human-learn"}
+{"date": "2021-01-16", "downloads": 13, "pkg": "human-learn"}
+{"date": "2021-01-17", "downloads": 7, "pkg": "human-learn"}
+{"date": "2021-01-18", "downloads": 3, "pkg": "human-learn"}
+{"date": "2021-01-19", "downloads": 28, "pkg": "human-learn"}
+{"date": "2021-01-20", "downloads": 26, "pkg": "human-learn"}
+{"date": "2021-01-21", "downloads": 6, "pkg": "human-learn"}
+{"date": "2021-01-22", "downloads": 9, "pkg": "human-learn"}
+{"date": "2021-01-23", "downloads": 1, "pkg": "human-learn"}
+{"date": "2021-01-24", "downloads": 17, "pkg": "human-learn"}
+{"date": "2021-01-25", "downloads": 30, "pkg": "human-learn"}
+{"date": "2021-01-26", "downloads": 20, "pkg": "human-learn"}
+{"date": "2021-01-27", "downloads": 11, "pkg": "human-learn"}
+{"date": "2021-01-28", "downloads": 71, "pkg": "human-learn"}
+{"date": "2021-01-29", "downloads": 11, "pkg": "human-learn"}
+{"date": "2021-01-30", "downloads": 38, "pkg": "human-learn"}
+{"date": "2021-01-31", "downloads": 21, "pkg": "human-learn"}
+{"date": "2021-02-01", "downloads": 23, "pkg": "human-learn"}
+{"date": "2021-02-02", "downloads": 60, "pkg": "human-learn"}
+{"date": "2021-02-03", "downloads": 42, "pkg": "human-learn"}
+{"date": "2021-02-04", "downloads": 75, "pkg": "human-learn"}
+{"date": "2021-02-05", "downloads": 53, "pkg": "human-learn"}
+{"date": "2021-02-06", "downloads": 40, "pkg": "human-learn"}
+{"date": "2021-02-07", "downloads": 38, "pkg": "human-learn"}
+{"date": "2021-02-08", "downloads": 34, "pkg": "human-learn"}
+{"date": "2021-02-09", "downloads": 24, "pkg": "human-learn"}
+{"date": "2021-02-10", "downloads": 8, "pkg": "human-learn"}
+{"date": "2021-02-11", "downloads": 39, "pkg": "human-learn"}
+{"date": "2021-02-12", "downloads": 6, "pkg": "human-learn"}
+{"date": "2021-02-13", "downloads": 27, "pkg": "human-learn"}
+{"date": "2021-02-14", "downloads": 8, "pkg": "human-learn"}
+{"date": "2021-02-15", "downloads": 37, "pkg": "human-learn"}
+{"date": "2021-02-16", "downloads": 36, "pkg": "human-learn"}
+{"date": "2021-02-17", "downloads": 11, "pkg": "human-learn"}
+{"date": "2021-02-18", "downloads": 45, "pkg": "human-learn"}
+{"date": "2021-02-19", "downloads": 71, "pkg": "human-learn"}
+{"date": "2021-02-20", "downloads": 4, "pkg": "human-learn"}
+{"date": "2021-02-21", "downloads": 35, "pkg": "human-learn"}
+{"date": "2021-02-22", "downloads": 23, "pkg": "human-learn"}
+{"date": "2021-02-23", "downloads": 17, "pkg": "human-learn"}
+{"date": "2021-02-24", "downloads": 14, "pkg": "human-learn"}
+{"date": "2021-02-25", "downloads": 53, "pkg": "human-learn"}
+{"date": "2021-02-26", "downloads": 35, "pkg": "human-learn"}
+{"date": "2021-02-27", "downloads": 1, "pkg": "human-learn"}
+{"date": "2021-02-28", "downloads": 19, "pkg": "human-learn"}
+{"date": "2021-03-01", "downloads": 42, "pkg": "human-learn"}
+{"date": "2021-03-02", "downloads": 61, "pkg": "human-learn"}
+{"date": "2021-03-03", "downloads": 42, "pkg": "human-learn"}
+{"date": "2021-03-04", "downloads": 34, "pkg": "human-learn"}
+{"date": "2021-03-05", "downloads": 12, "pkg": "human-learn"}
+{"date": "2021-03-06", "downloads": 36, "pkg": "human-learn"}
+{"date": "2021-03-07", "downloads": 50, "pkg": "human-learn"}
+{"date": "2021-03-08", "downloads": 35, "pkg": "human-learn"}
+{"date": "2021-03-09", "downloads": 54, "pkg": "human-learn"}
+{"date": "2021-03-10", "downloads": 7, "pkg": "human-learn"}
+{"date": "2021-03-11", "downloads": 7, "pkg": "human-learn"}
+{"date": "2021-03-12", "downloads": 31, "pkg": "human-learn"}
+{"date": "2021-03-13", "downloads": 19, "pkg": "human-learn"}
+{"date": "2021-03-14", "downloads": 6, "pkg": "human-learn"}
+{"date": "2021-03-15", "downloads": 30, "pkg": "human-learn"}
+{"date": "2021-03-16", "downloads": 119, "pkg": "human-learn"}
+{"date": "2021-03-17", "downloads": 177, "pkg": "human-learn"}
+{"date": "2021-03-18", "downloads": 16, "pkg": "human-learn"}
+{"date": "2021-03-19", "downloads": 30, "pkg": "human-learn"}
+{"date": "2021-03-20", "downloads": 53, "pkg": "human-learn"}
+{"date": "2021-03-21", "downloads": 53, "pkg": "human-learn"}
+{"date": "2021-03-22", "downloads": 8, "pkg": "human-learn"}
+{"date": "2021-03-23", "downloads": 33, "pkg": "human-learn"}
+{"date": "2021-03-24", "downloads": 20, "pkg": "human-learn"}
+{"date": "2021-03-25", "downloads": 23, "pkg": "human-learn"}
+{"date": "2021-03-26", "downloads": 105, "pkg": "human-learn"}
+{"date": "2021-03-27", "downloads": 75, "pkg": "human-learn"}
+{"date": "2021-03-28", "downloads": 24, "pkg": "human-learn"}
+{"date": "2021-03-29", "downloads": 38, "pkg": "human-learn"}
+{"date": "2021-03-30", "downloads": 58, "pkg": "human-learn"}
+{"date": "2021-03-31", "downloads": 26, "pkg": "human-learn"}
+{"date": "2021-04-01", "downloads": 45, "pkg": "human-learn"}
+{"date": "2021-04-02", "downloads": 30, "pkg": "human-learn"}
+{"date": "2021-04-03", "downloads": 41, "pkg": "human-learn"}
+{"date": "2021-04-04", "downloads": 22, "pkg": "human-learn"}
+{"date": "2021-04-05", "downloads": 21, "pkg": "human-learn"}
+{"date": "2021-04-06", "downloads": 29, "pkg": "human-learn"}
+{"date": "2021-04-07", "downloads": 22, "pkg": "human-learn"}
+{"date": "2021-04-08", "downloads": 14, "pkg": "human-learn"}
+{"date": "2021-04-09", "downloads": 31, "pkg": "human-learn"}
+{"date": "2021-04-10", "downloads": 16, "pkg": "human-learn"}
+{"date": "2021-04-11", "downloads": 43, "pkg": "human-learn"}
+{"date": "2021-04-12", "downloads": 26, "pkg": "human-learn"}

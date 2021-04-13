@@ -1,89 +1,89 @@
-{"date": "2021-01-13", "values": 2}
-{"date": "2021-01-14", "values": 1}
-{"date": "2021-01-15", "values": 4}
-{"date": "2021-01-16", "values": 5}
-{"date": "2021-01-17", "values": 12}
-{"date": "2021-01-18", "values": 2}
-{"date": "2021-01-19", "values": 6}
-{"date": "2021-01-20", "values": 6}
-{"date": "2021-01-21", "values": 4}
-{"date": "2021-01-22", "values": 2}
-{"date": "2021-01-23", "values": 3}
-{"date": "2021-01-24", "values": 4}
-{"date": "2021-01-25", "values": 8}
-{"date": "2021-01-26", "values": 4}
-{"date": "2021-01-27", "values": 5}
-{"date": "2021-01-28", "values": 6}
-{"date": "2021-01-29", "values": 7}
-{"date": "2021-01-30", "values": 6}
-{"date": "2021-01-31", "values": 4}
-{"date": "2021-02-01", "values": 8}
-{"date": "2021-02-02", "values": 22}
-{"date": "2021-02-03", "values": 10}
-{"date": "2021-02-04", "values": 12}
-{"date": "2021-02-05", "values": 20}
-{"date": "2021-02-06", "values": 1}
-{"date": "2021-02-07", "values": 21}
-{"date": "2021-02-08", "values": 18}
-{"date": "2021-02-09", "values": 10}
-{"date": "2021-02-10", "values": 8}
-{"date": "2021-02-11", "values": 6}
-{"date": "2021-02-12", "values": 2}
-{"date": "2021-02-13", "values": 15}
-{"date": "2021-02-14", "values": 9}
-{"date": "2021-02-16", "values": 2}
-{"date": "2021-02-17", "values": 2}
-{"date": "2021-02-18", "values": 4}
-{"date": "2021-02-19", "values": 4}
-{"date": "2021-02-20", "values": 5}
-{"date": "2021-02-21", "values": 29}
-{"date": "2021-02-22", "values": 7}
-{"date": "2021-02-23", "values": 4}
-{"date": "2021-02-24", "values": 19}
-{"date": "2021-02-25", "values": 4}
-{"date": "2021-02-26", "values": 6}
-{"date": "2021-02-27", "values": 2}
-{"date": "2021-02-28", "values": 3}
-{"date": "2021-03-01", "values": 20}
-{"date": "2021-03-02", "values": 16}
-{"date": "2021-03-03", "values": 7}
-{"date": "2021-03-04", "values": 4}
-{"date": "2021-03-05", "values": 2}
-{"date": "2021-03-06", "values": 7}
-{"date": "2021-03-07", "values": 105}
-{"date": "2021-03-08", "values": 93}
-{"date": "2021-03-09", "values": 38}
-{"date": "2021-03-10", "values": 35}
-{"date": "2021-03-11", "values": 18}
-{"date": "2021-03-12", "values": 17}
-{"date": "2021-03-13", "values": 8}
-{"date": "2021-03-14", "values": 22}
-{"date": "2021-03-15", "values": 12}
-{"date": "2021-03-16", "values": 12}
-{"date": "2021-03-17", "values": 20}
-{"date": "2021-03-18", "values": 16}
-{"date": "2021-03-19", "values": 9}
-{"date": "2021-03-20", "values": 20}
-{"date": "2021-03-21", "values": 33}
-{"date": "2021-03-22", "values": 9}
-{"date": "2021-03-23", "values": 8}
-{"date": "2021-03-24", "values": 17}
-{"date": "2021-03-25", "values": 16}
-{"date": "2021-03-26", "values": 19}
-{"date": "2021-03-27", "values": 19}
-{"date": "2021-03-28", "values": 21}
-{"date": "2021-03-29", "values": 8}
-{"date": "2021-03-30", "values": 15}
-{"date": "2021-03-31", "values": 26}
-{"date": "2021-04-01", "values": 10}
-{"date": "2021-04-02", "values": 8}
-{"date": "2021-04-03", "values": 12}
-{"date": "2021-04-04", "values": 13}
-{"date": "2021-04-05", "values": 10}
-{"date": "2021-04-06", "values": 7}
-{"date": "2021-04-07", "values": 5}
-{"date": "2021-04-08", "values": 7}
-{"date": "2021-04-09", "values": 11}
-{"date": "2021-04-10", "values": 11}
-{"date": "2021-04-11", "values": 10}
-{"date": "2021-04-12", "values": 7}
+{"date": "2021-01-13", "downloads": 2, "pkg": "mktestdocs"}
+{"date": "2021-01-14", "downloads": 1, "pkg": "mktestdocs"}
+{"date": "2021-01-15", "downloads": 4, "pkg": "mktestdocs"}
+{"date": "2021-01-16", "downloads": 5, "pkg": "mktestdocs"}
+{"date": "2021-01-17", "downloads": 12, "pkg": "mktestdocs"}
+{"date": "2021-01-18", "downloads": 2, "pkg": "mktestdocs"}
+{"date": "2021-01-19", "downloads": 6, "pkg": "mktestdocs"}
+{"date": "2021-01-20", "downloads": 6, "pkg": "mktestdocs"}
+{"date": "2021-01-21", "downloads": 4, "pkg": "mktestdocs"}
+{"date": "2021-01-22", "downloads": 2, "pkg": "mktestdocs"}
+{"date": "2021-01-23", "downloads": 3, "pkg": "mktestdocs"}
+{"date": "2021-01-24", "downloads": 4, "pkg": "mktestdocs"}
+{"date": "2021-01-25", "downloads": 8, "pkg": "mktestdocs"}
+{"date": "2021-01-26", "downloads": 4, "pkg": "mktestdocs"}
+{"date": "2021-01-27", "downloads": 5, "pkg": "mktestdocs"}
+{"date": "2021-01-28", "downloads": 6, "pkg": "mktestdocs"}
+{"date": "2021-01-29", "downloads": 7, "pkg": "mktestdocs"}
+{"date": "2021-01-30", "downloads": 6, "pkg": "mktestdocs"}
+{"date": "2021-01-31", "downloads": 4, "pkg": "mktestdocs"}
+{"date": "2021-02-01", "downloads": 8, "pkg": "mktestdocs"}
+{"date": "2021-02-02", "downloads": 22, "pkg": "mktestdocs"}
+{"date": "2021-02-03", "downloads": 10, "pkg": "mktestdocs"}
+{"date": "2021-02-04", "downloads": 12, "pkg": "mktestdocs"}
+{"date": "2021-02-05", "downloads": 20, "pkg": "mktestdocs"}
+{"date": "2021-02-06", "downloads": 1, "pkg": "mktestdocs"}
+{"date": "2021-02-07", "downloads": 21, "pkg": "mktestdocs"}
+{"date": "2021-02-08", "downloads": 18, "pkg": "mktestdocs"}
+{"date": "2021-02-09", "downloads": 10, "pkg": "mktestdocs"}
+{"date": "2021-02-10", "downloads": 8, "pkg": "mktestdocs"}
+{"date": "2021-02-11", "downloads": 6, "pkg": "mktestdocs"}
+{"date": "2021-02-12", "downloads": 2, "pkg": "mktestdocs"}
+{"date": "2021-02-13", "downloads": 15, "pkg": "mktestdocs"}
+{"date": "2021-02-14", "downloads": 9, "pkg": "mktestdocs"}
+{"date": "2021-02-16", "downloads": 2, "pkg": "mktestdocs"}
+{"date": "2021-02-17", "downloads": 2, "pkg": "mktestdocs"}
+{"date": "2021-02-18", "downloads": 4, "pkg": "mktestdocs"}
+{"date": "2021-02-19", "downloads": 4, "pkg": "mktestdocs"}
+{"date": "2021-02-20", "downloads": 5, "pkg": "mktestdocs"}
+{"date": "2021-02-21", "downloads": 29, "pkg": "mktestdocs"}
+{"date": "2021-02-22", "downloads": 7, "pkg": "mktestdocs"}
+{"date": "2021-02-23", "downloads": 4, "pkg": "mktestdocs"}
+{"date": "2021-02-24", "downloads": 19, "pkg": "mktestdocs"}
+{"date": "2021-02-25", "downloads": 4, "pkg": "mktestdocs"}
+{"date": "2021-02-26", "downloads": 6, "pkg": "mktestdocs"}
+{"date": "2021-02-27", "downloads": 2, "pkg": "mktestdocs"}
+{"date": "2021-02-28", "downloads": 3, "pkg": "mktestdocs"}
+{"date": "2021-03-01", "downloads": 20, "pkg": "mktestdocs"}
+{"date": "2021-03-02", "downloads": 16, "pkg": "mktestdocs"}
+{"date": "2021-03-03", "downloads": 7, "pkg": "mktestdocs"}
+{"date": "2021-03-04", "downloads": 4, "pkg": "mktestdocs"}
+{"date": "2021-03-05", "downloads": 2, "pkg": "mktestdocs"}
+{"date": "2021-03-06", "downloads": 7, "pkg": "mktestdocs"}
+{"date": "2021-03-07", "downloads": 105, "pkg": "mktestdocs"}
+{"date": "2021-03-08", "downloads": 93, "pkg": "mktestdocs"}
+{"date": "2021-03-09", "downloads": 38, "pkg": "mktestdocs"}
+{"date": "2021-03-10", "downloads": 35, "pkg": "mktestdocs"}
+{"date": "2021-03-11", "downloads": 18, "pkg": "mktestdocs"}
+{"date": "2021-03-12", "downloads": 17, "pkg": "mktestdocs"}
+{"date": "2021-03-13", "downloads": 8, "pkg": "mktestdocs"}
+{"date": "2021-03-14", "downloads": 22, "pkg": "mktestdocs"}
+{"date": "2021-03-15", "downloads": 12, "pkg": "mktestdocs"}
+{"date": "2021-03-16", "downloads": 12, "pkg": "mktestdocs"}
+{"date": "2021-03-17", "downloads": 20, "pkg": "mktestdocs"}
+{"date": "2021-03-18", "downloads": 16, "pkg": "mktestdocs"}
+{"date": "2021-03-19", "downloads": 9, "pkg": "mktestdocs"}
+{"date": "2021-03-20", "downloads": 20, "pkg": "mktestdocs"}
+{"date": "2021-03-21", "downloads": 33, "pkg": "mktestdocs"}
+{"date": "2021-03-22", "downloads": 9, "pkg": "mktestdocs"}
+{"date": "2021-03-23", "downloads": 8, "pkg": "mktestdocs"}
+{"date": "2021-03-24", "downloads": 17, "pkg": "mktestdocs"}
+{"date": "2021-03-25", "downloads": 16, "pkg": "mktestdocs"}
+{"date": "2021-03-26", "downloads": 19, "pkg": "mktestdocs"}
+{"date": "2021-03-27", "downloads": 19, "pkg": "mktestdocs"}
+{"date": "2021-03-28", "downloads": 21, "pkg": "mktestdocs"}
+{"date": "2021-03-29", "downloads": 8, "pkg": "mktestdocs"}
+{"date": "2021-03-30", "downloads": 15, "pkg": "mktestdocs"}
+{"date": "2021-03-31", "downloads": 26, "pkg": "mktestdocs"}
+{"date": "2021-04-01", "downloads": 10, "pkg": "mktestdocs"}
+{"date": "2021-04-02", "downloads": 8, "pkg": "mktestdocs"}
+{"date": "2021-04-03", "downloads": 12, "pkg": "mktestdocs"}
+{"date": "2021-04-04", "downloads": 13, "pkg": "mktestdocs"}
+{"date": "2021-04-05", "downloads": 10, "pkg": "mktestdocs"}
+{"date": "2021-04-06", "downloads": 7, "pkg": "mktestdocs"}
+{"date": "2021-04-07", "downloads": 5, "pkg": "mktestdocs"}
+{"date": "2021-04-08", "downloads": 7, "pkg": "mktestdocs"}
+{"date": "2021-04-09", "downloads": 11, "pkg": "mktestdocs"}
+{"date": "2021-04-10", "downloads": 11, "pkg": "mktestdocs"}
+{"date": "2021-04-11", "downloads": 10, "pkg": "mktestdocs"}
+{"date": "2021-04-12", "downloads": 7, "pkg": "mktestdocs"}

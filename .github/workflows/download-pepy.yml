@@ -29,6 +29,9 @@ jobs:
         python download/pepy.py memo >> data/pepy/memo.jsonl
         python download/pepy.py clumper >> data/pepy/clumper.jsonl
         python download/pepy.py mktestdocs >> data/pepy/mktestdocs.jsonl
+    - name: Concatenate it all
+      run: |-
+        python common/concat.py data/pepy/*.jsonl data/pepy/downloads.csv
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"

@@ -1,90 +1,90 @@
-{"date": "2021-01-13", "values": 6}
-{"date": "2021-01-14", "values": 18}
-{"date": "2021-01-15", "values": 97}
-{"date": "2021-01-16", "values": 40}
-{"date": "2021-01-17", "values": 110}
-{"date": "2021-01-18", "values": 6}
-{"date": "2021-01-19", "values": 152}
-{"date": "2021-01-20", "values": 14}
-{"date": "2021-01-21", "values": 92}
-{"date": "2021-01-22", "values": 152}
-{"date": "2021-01-23", "values": 86}
-{"date": "2021-01-24", "values": 83}
-{"date": "2021-01-25", "values": 49}
-{"date": "2021-01-26", "values": 21}
-{"date": "2021-01-27", "values": 162}
-{"date": "2021-01-28", "values": 181}
-{"date": "2021-01-29", "values": 42}
-{"date": "2021-01-30", "values": 86}
-{"date": "2021-01-31", "values": 25}
-{"date": "2021-02-01", "values": 14}
-{"date": "2021-02-02", "values": 103}
-{"date": "2021-02-03", "values": 67}
-{"date": "2021-02-04", "values": 24}
-{"date": "2021-02-05", "values": 109}
-{"date": "2021-02-06", "values": 117}
-{"date": "2021-02-07", "values": 9}
-{"date": "2021-02-08", "values": 177}
-{"date": "2021-02-09", "values": 39}
-{"date": "2021-02-10", "values": 397}
-{"date": "2021-02-11", "values": 368}
-{"date": "2021-02-12", "values": 33}
-{"date": "2021-02-13", "values": 103}
-{"date": "2021-02-14", "values": 6}
-{"date": "2021-02-15", "values": 89}
-{"date": "2021-02-16", "values": 142}
-{"date": "2021-02-17", "values": 210}
-{"date": "2021-02-18", "values": 151}
-{"date": "2021-02-19", "values": 103}
-{"date": "2021-02-20", "values": 16}
-{"date": "2021-02-21", "values": 47}
-{"date": "2021-02-22", "values": 98}
-{"date": "2021-02-23", "values": 141}
-{"date": "2021-02-24", "values": 294}
-{"date": "2021-02-25", "values": 157}
-{"date": "2021-02-26", "values": 135}
-{"date": "2021-02-27", "values": 196}
-{"date": "2021-02-28", "values": 120}
-{"date": "2021-03-01", "values": 100}
-{"date": "2021-03-02", "values": 143}
-{"date": "2021-03-03", "values": 115}
-{"date": "2021-03-04", "values": 533}
-{"date": "2021-03-05", "values": 55}
-{"date": "2021-03-06", "values": 274}
-{"date": "2021-03-07", "values": 41}
-{"date": "2021-03-08", "values": 110}
-{"date": "2021-03-09", "values": 129}
-{"date": "2021-03-10", "values": 197}
-{"date": "2021-03-11", "values": 61}
-{"date": "2021-03-12", "values": 42}
-{"date": "2021-03-13", "values": 196}
-{"date": "2021-03-14", "values": 211}
-{"date": "2021-03-15", "values": 95}
-{"date": "2021-03-16", "values": 275}
-{"date": "2021-03-17", "values": 134}
-{"date": "2021-03-18", "values": 68}
-{"date": "2021-03-19", "values": 141}
-{"date": "2021-03-20", "values": 95}
-{"date": "2021-03-21", "values": 127}
-{"date": "2021-03-22", "values": 23}
-{"date": "2021-03-23", "values": 11}
-{"date": "2021-03-24", "values": 212}
-{"date": "2021-03-25", "values": 54}
-{"date": "2021-03-26", "values": 124}
-{"date": "2021-03-27", "values": 101}
-{"date": "2021-03-28", "values": 26}
-{"date": "2021-03-29", "values": 102}
-{"date": "2021-03-30", "values": 164}
-{"date": "2021-03-31", "values": 15}
-{"date": "2021-04-01", "values": 193}
-{"date": "2021-04-02", "values": 22}
-{"date": "2021-04-03", "values": 89}
-{"date": "2021-04-04", "values": 4}
-{"date": "2021-04-05", "values": 109}
-{"date": "2021-04-06", "values": 11}
-{"date": "2021-04-07", "values": 190}
-{"date": "2021-04-08", "values": 164}
-{"date": "2021-04-09", "values": 118}
-{"date": "2021-04-10", "values": 16}
-{"date": "2021-04-11", "values": 14}
-{"date": "2021-04-12", "values": 44}
+{"date": "2021-01-13", "downloads": 6, "pkg": "whatlies"}
+{"date": "2021-01-14", "downloads": 18, "pkg": "whatlies"}
+{"date": "2021-01-15", "downloads": 97, "pkg": "whatlies"}
+{"date": "2021-01-16", "downloads": 40, "pkg": "whatlies"}
+{"date": "2021-01-17", "downloads": 110, "pkg": "whatlies"}
+{"date": "2021-01-18", "downloads": 6, "pkg": "whatlies"}
+{"date": "2021-01-19", "downloads": 152, "pkg": "whatlies"}
+{"date": "2021-01-20", "downloads": 14, "pkg": "whatlies"}
+{"date": "2021-01-21", "downloads": 92, "pkg": "whatlies"}
+{"date": "2021-01-22", "downloads": 152, "pkg": "whatlies"}
+{"date": "2021-01-23", "downloads": 86, "pkg": "whatlies"}
+{"date": "2021-01-24", "downloads": 83, "pkg": "whatlies"}
+{"date": "2021-01-25", "downloads": 49, "pkg": "whatlies"}
+{"date": "2021-01-26", "downloads": 21, "pkg": "whatlies"}
+{"date": "2021-01-27", "downloads": 162, "pkg": "whatlies"}
+{"date": "2021-01-28", "downloads": 181, "pkg": "whatlies"}
+{"date": "2021-01-29", "downloads": 42, "pkg": "whatlies"}
+{"date": "2021-01-30", "downloads": 86, "pkg": "whatlies"}
+{"date": "2021-01-31", "downloads": 25, "pkg": "whatlies"}
+{"date": "2021-02-01", "downloads": 14, "pkg": "whatlies"}
+{"date": "2021-02-02", "downloads": 103, "pkg": "whatlies"}
+{"date": "2021-02-03", "downloads": 67, "pkg": "whatlies"}
+{"date": "2021-02-04", "downloads": 24, "pkg": "whatlies"}
+{"date": "2021-02-05", "downloads": 109, "pkg": "whatlies"}
+{"date": "2021-02-06", "downloads": 117, "pkg": "whatlies"}
+{"date": "2021-02-07", "downloads": 9, "pkg": "whatlies"}
+{"date": "2021-02-08", "downloads": 177, "pkg": "whatlies"}
+{"date": "2021-02-09", "downloads": 39, "pkg": "whatlies"}
+{"date": "2021-02-10", "downloads": 397, "pkg": "whatlies"}
+{"date": "2021-02-11", "downloads": 368, "pkg": "whatlies"}
+{"date": "2021-02-12", "downloads": 33, "pkg": "whatlies"}
+{"date": "2021-02-13", "downloads": 103, "pkg": "whatlies"}
+{"date": "2021-02-14", "downloads": 6, "pkg": "whatlies"}
+{"date": "2021-02-15", "downloads": 89, "pkg": "whatlies"}
+{"date": "2021-02-16", "downloads": 142, "pkg": "whatlies"}
+{"date": "2021-02-17", "downloads": 210, "pkg": "whatlies"}
+{"date": "2021-02-18", "downloads": 151, "pkg": "whatlies"}
+{"date": "2021-02-19", "downloads": 103, "pkg": "whatlies"}
+{"date": "2021-02-20", "downloads": 16, "pkg": "whatlies"}
+{"date": "2021-02-21", "downloads": 47, "pkg": "whatlies"}
+{"date": "2021-02-22", "downloads": 98, "pkg": "whatlies"}
+{"date": "2021-02-23", "downloads": 141, "pkg": "whatlies"}
+{"date": "2021-02-24", "downloads": 294, "pkg": "whatlies"}
+{"date": "2021-02-25", "downloads": 157, "pkg": "whatlies"}
+{"date": "2021-02-26", "downloads": 135, "pkg": "whatlies"}
+{"date": "2021-02-27", "downloads": 196, "pkg": "whatlies"}
+{"date": "2021-02-28", "downloads": 120, "pkg": "whatlies"}
+{"date": "2021-03-01", "downloads": 100, "pkg": "whatlies"}
+{"date": "2021-03-02", "downloads": 143, "pkg": "whatlies"}
+{"date": "2021-03-03", "downloads": 115, "pkg": "whatlies"}
+{"date": "2021-03-04", "downloads": 533, "pkg": "whatlies"}
+{"date": "2021-03-05", "downloads": 55, "pkg": "whatlies"}
+{"date": "2021-03-06", "downloads": 274, "pkg": "whatlies"}
+{"date": "2021-03-07", "downloads": 41, "pkg": "whatlies"}
+{"date": "2021-03-08", "downloads": 110, "pkg": "whatlies"}
+{"date": "2021-03-09", "downloads": 129, "pkg": "whatlies"}
+{"date": "2021-03-10", "downloads": 197, "pkg": "whatlies"}
+{"date": "2021-03-11", "downloads": 61, "pkg": "whatlies"}
+{"date": "2021-03-12", "downloads": 42, "pkg": "whatlies"}
+{"date": "2021-03-13", "downloads": 196, "pkg": "whatlies"}
+{"date": "2021-03-14", "downloads": 211, "pkg": "whatlies"}
+{"date": "2021-03-15", "downloads": 95, "pkg": "whatlies"}
+{"date": "2021-03-16", "downloads": 275, "pkg": "whatlies"}
+{"date": "2021-03-17", "downloads": 134, "pkg": "whatlies"}
+{"date": "2021-03-18", "downloads": 68, "pkg": "whatlies"}
+{"date": "2021-03-19", "downloads": 141, "pkg": "whatlies"}
+{"date": "2021-03-20", "downloads": 95, "pkg": "whatlies"}
+{"date": "2021-03-21", "downloads": 127, "pkg": "whatlies"}
+{"date": "2021-03-22", "downloads": 23, "pkg": "whatlies"}
+{"date": "2021-03-23", "downloads": 11, "pkg": "whatlies"}
+{"date": "2021-03-24", "downloads": 212, "pkg": "whatlies"}
+{"date": "2021-03-25", "downloads": 54, "pkg": "whatlies"}
+{"date": "2021-03-26", "downloads": 124, "pkg": "whatlies"}
+{"date": "2021-03-27", "downloads": 101, "pkg": "whatlies"}
+{"date": "2021-03-28", "downloads": 26, "pkg": "whatlies"}
+{"date": "2021-03-29", "downloads": 102, "pkg": "whatlies"}
+{"date": "2021-03-30", "downloads": 164, "pkg": "whatlies"}
+{"date": "2021-03-31", "downloads": 15, "pkg": "whatlies"}
+{"date": "2021-04-01", "downloads": 193, "pkg": "whatlies"}
+{"date": "2021-04-02", "downloads": 22, "pkg": "whatlies"}
+{"date": "2021-04-03", "downloads": 89, "pkg": "whatlies"}
+{"date": "2021-04-04", "downloads": 4, "pkg": "whatlies"}
+{"date": "2021-04-05", "downloads": 109, "pkg": "whatlies"}
+{"date": "2021-04-06", "downloads": 11, "pkg": "whatlies"}
+{"date": "2021-04-07", "downloads": 190, "pkg": "whatlies"}
+{"date": "2021-04-08", "downloads": 164, "pkg": "whatlies"}
+{"date": "2021-04-09", "downloads": 118, "pkg": "whatlies"}
+{"date": "2021-04-10", "downloads": 16, "pkg": "whatlies"}
+{"date": "2021-04-11", "downloads": 14, "pkg": "whatlies"}
+{"date": "2021-04-12", "downloads": 44, "pkg": "whatlies"}

@@ -1,90 +1,90 @@
-{"date": "2021-01-13", "values": 54}
-{"date": "2021-01-14", "values": 3}
-{"date": "2021-01-15", "values": 18}
-{"date": "2021-01-16", "values": 54}
-{"date": "2021-01-17", "values": 24}
-{"date": "2021-01-18", "values": 40}
-{"date": "2021-01-19", "values": 37}
-{"date": "2021-01-20", "values": 12}
-{"date": "2021-01-21", "values": 6}
-{"date": "2021-01-22", "values": 28}
-{"date": "2021-01-23", "values": 21}
-{"date": "2021-01-24", "values": 6}
-{"date": "2021-01-25", "values": 71}
-{"date": "2021-01-26", "values": 35}
-{"date": "2021-01-27", "values": 31}
-{"date": "2021-01-28", "values": 21}
-{"date": "2021-01-29", "values": 57}
-{"date": "2021-01-30", "values": 45}
-{"date": "2021-01-31", "values": 61}
-{"date": "2021-02-01", "values": 15}
-{"date": "2021-02-02", "values": 105}
-{"date": "2021-02-03", "values": 114}
-{"date": "2021-02-04", "values": 81}
-{"date": "2021-02-05", "values": 67}
-{"date": "2021-02-06", "values": 22}
-{"date": "2021-02-07", "values": 148}
-{"date": "2021-02-08", "values": 178}
-{"date": "2021-02-09", "values": 81}
-{"date": "2021-02-10", "values": 23}
-{"date": "2021-02-11", "values": 64}
-{"date": "2021-02-12", "values": 47}
-{"date": "2021-02-13", "values": 167}
-{"date": "2021-02-14", "values": 127}
-{"date": "2021-02-15", "values": 62}
-{"date": "2021-02-16", "values": 49}
-{"date": "2021-02-17", "values": 96}
-{"date": "2021-02-18", "values": 46}
-{"date": "2021-02-19", "values": 26}
-{"date": "2021-02-20", "values": 132}
-{"date": "2021-02-21", "values": 83}
-{"date": "2021-02-22", "values": 50}
-{"date": "2021-02-23", "values": 132}
-{"date": "2021-02-24", "values": 100}
-{"date": "2021-02-25", "values": 50}
-{"date": "2021-02-26", "values": 31}
-{"date": "2021-02-27", "values": 13}
-{"date": "2021-02-28", "values": 115}
-{"date": "2021-03-01", "values": 131}
-{"date": "2021-03-02", "values": 275}
-{"date": "2021-03-03", "values": 64}
-{"date": "2021-03-04", "values": 112}
-{"date": "2021-03-05", "values": 34}
-{"date": "2021-03-06", "values": 75}
-{"date": "2021-03-07", "values": 123}
-{"date": "2021-03-08", "values": 41}
-{"date": "2021-03-09", "values": 94}
-{"date": "2021-03-10", "values": 27}
-{"date": "2021-03-11", "values": 76}
-{"date": "2021-03-12", "values": 46}
-{"date": "2021-03-13", "values": 39}
-{"date": "2021-03-14", "values": 53}
-{"date": "2021-03-15", "values": 40}
-{"date": "2021-03-16", "values": 78}
-{"date": "2021-03-17", "values": 73}
-{"date": "2021-03-18", "values": 65}
-{"date": "2021-03-19", "values": 53}
-{"date": "2021-03-20", "values": 55}
-{"date": "2021-03-21", "values": 19}
-{"date": "2021-03-22", "values": 58}
-{"date": "2021-03-23", "values": 129}
-{"date": "2021-03-24", "values": 95}
-{"date": "2021-03-25", "values": 92}
-{"date": "2021-03-26", "values": 59}
-{"date": "2021-03-27", "values": 141}
-{"date": "2021-03-28", "values": 38}
-{"date": "2021-03-29", "values": 16}
-{"date": "2021-03-30", "values": 65}
-{"date": "2021-03-31", "values": 63}
-{"date": "2021-04-01", "values": 93}
-{"date": "2021-04-02", "values": 58}
-{"date": "2021-04-03", "values": 44}
-{"date": "2021-04-04", "values": 69}
-{"date": "2021-04-05", "values": 41}
-{"date": "2021-04-06", "values": 50}
-{"date": "2021-04-07", "values": 36}
-{"date": "2021-04-08", "values": 12}
-{"date": "2021-04-09", "values": 26}
-{"date": "2021-04-10", "values": 93}
-{"date": "2021-04-11", "values": 42}
-{"date": "2021-04-12", "values": 53}
+{"date": "2021-01-13", "downloads": 54, "pkg": "clumper"}
+{"date": "2021-01-14", "downloads": 3, "pkg": "clumper"}
+{"date": "2021-01-15", "downloads": 18, "pkg": "clumper"}
+{"date": "2021-01-16", "downloads": 54, "pkg": "clumper"}
+{"date": "2021-01-17", "downloads": 24, "pkg": "clumper"}
+{"date": "2021-01-18", "downloads": 40, "pkg": "clumper"}
+{"date": "2021-01-19", "downloads": 37, "pkg": "clumper"}
+{"date": "2021-01-20", "downloads": 12, "pkg": "clumper"}
+{"date": "2021-01-21", "downloads": 6, "pkg": "clumper"}
+{"date": "2021-01-22", "downloads": 28, "pkg": "clumper"}
+{"date": "2021-01-23", "downloads": 21, "pkg": "clumper"}
+{"date": "2021-01-24", "downloads": 6, "pkg": "clumper"}
+{"date": "2021-01-25", "downloads": 71, "pkg": "clumper"}
+{"date": "2021-01-26", "downloads": 35, "pkg": "clumper"}
+{"date": "2021-01-27", "downloads": 31, "pkg": "clumper"}
+{"date": "2021-01-28", "downloads": 21, "pkg": "clumper"}
+{"date": "2021-01-29", "downloads": 57, "pkg": "clumper"}
+{"date": "2021-01-30", "downloads": 45, "pkg": "clumper"}
+{"date": "2021-01-31", "downloads": 61, "pkg": "clumper"}
+{"date": "2021-02-01", "downloads": 15, "pkg": "clumper"}
+{"date": "2021-02-02", "downloads": 105, "pkg": "clumper"}
+{"date": "2021-02-03", "downloads": 114, "pkg": "clumper"}
+{"date": "2021-02-04", "downloads": 81, "pkg": "clumper"}
+{"date": "2021-02-05", "downloads": 67, "pkg": "clumper"}
+{"date": "2021-02-06", "downloads": 22, "pkg": "clumper"}
+{"date": "2021-02-07", "downloads": 148, "pkg": "clumper"}
+{"date": "2021-02-08", "downloads": 178, "pkg": "clumper"}
+{"date": "2021-02-09", "downloads": 81, "pkg": "clumper"}
+{"date": "2021-02-10", "downloads": 23, "pkg": "clumper"}
+{"date": "2021-02-11", "downloads": 64, "pkg": "clumper"}
+{"date": "2021-02-12", "downloads": 47, "pkg": "clumper"}
+{"date": "2021-02-13", "downloads": 167, "pkg": "clumper"}
+{"date": "2021-02-14", "downloads": 127, "pkg": "clumper"}
+{"date": "2021-02-15", "downloads": 62, "pkg": "clumper"}
+{"date": "2021-02-16", "downloads": 49, "pkg": "clumper"}
+{"date": "2021-02-17", "downloads": 96, "pkg": "clumper"}
+{"date": "2021-02-18", "downloads": 46, "pkg": "clumper"}
+{"date": "2021-02-19", "downloads": 26, "pkg": "clumper"}
+{"date": "2021-02-20", "downloads": 132, "pkg": "clumper"}
+{"date": "2021-02-21", "downloads": 83, "pkg": "clumper"}
+{"date": "2021-02-22", "downloads": 50, "pkg": "clumper"}
+{"date": "2021-02-23", "downloads": 132, "pkg": "clumper"}
+{"date": "2021-02-24", "downloads": 100, "pkg": "clumper"}
+{"date": "2021-02-25", "downloads": 50, "pkg": "clumper"}
+{"date": "2021-02-26", "downloads": 31, "pkg": "clumper"}
+{"date": "2021-02-27", "downloads": 13, "pkg": "clumper"}
+{"date": "2021-02-28", "downloads": 115, "pkg": "clumper"}
+{"date": "2021-03-01", "downloads": 131, "pkg": "clumper"}
+{"date": "2021-03-02", "downloads": 275, "pkg": "clumper"}
+{"date": "2021-03-03", "downloads": 64, "pkg": "clumper"}
+{"date": "2021-03-04", "downloads": 112, "pkg": "clumper"}
+{"date": "2021-03-05", "downloads": 34, "pkg": "clumper"}
+{"date": "2021-03-06", "downloads": 75, "pkg": "clumper"}
+{"date": "2021-03-07", "downloads": 123, "pkg": "clumper"}
+{"date": "2021-03-08", "downloads": 41, "pkg": "clumper"}
+{"date": "2021-03-09", "downloads": 94, "pkg": "clumper"}
+{"date": "2021-03-10", "downloads": 27, "pkg": "clumper"}
+{"date": "2021-03-11", "downloads": 76, "pkg": "clumper"}
+{"date": "2021-03-12", "downloads": 46, "pkg": "clumper"}
+{"date": "2021-03-13", "downloads": 39, "pkg": "clumper"}
+{"date": "2021-03-14", "downloads": 53, "pkg": "clumper"}
+{"date": "2021-03-15", "downloads": 40, "pkg": "clumper"}
+{"date": "2021-03-16", "downloads": 78, "pkg": "clumper"}
+{"date": "2021-03-17", "downloads": 73, "pkg": "clumper"}
+{"date": "2021-03-18", "downloads": 65, "pkg": "clumper"}
+{"date": "2021-03-19", "downloads": 53, "pkg": "clumper"}
+{"date": "2021-03-20", "downloads": 55, "pkg": "clumper"}
+{"date": "2021-03-21", "downloads": 19, "pkg": "clumper"}
+{"date": "2021-03-22", "downloads": 58, "pkg": "clumper"}
+{"date": "2021-03-23", "downloads": 129, "pkg": "clumper"}
+{"date": "2021-03-24", "downloads": 95, "pkg": "clumper"}
+{"date": "2021-03-25", "downloads": 92, "pkg": "clumper"}
+{"date": "2021-03-26", "downloads": 59, "pkg": "clumper"}
+{"date": "2021-03-27", "downloads": 141, "pkg": "clumper"}
+{"date": "2021-03-28", "downloads": 38, "pkg": "clumper"}
+{"date": "2021-03-29", "downloads": 16, "pkg": "clumper"}
+{"date": "2021-03-30", "downloads": 65, "pkg": "clumper"}
+{"date": "2021-03-31", "downloads": 63, "pkg": "clumper"}
+{"date": "2021-04-01", "downloads": 93, "pkg": "clumper"}
+{"date": "2021-04-02", "downloads": 58, "pkg": "clumper"}
+{"date": "2021-04-03", "downloads": 44, "pkg": "clumper"}
+{"date": "2021-04-04", "downloads": 69, "pkg": "clumper"}
+{"date": "2021-04-05", "downloads": 41, "pkg": "clumper"}
+{"date": "2021-04-06", "downloads": 50, "pkg": "clumper"}
+{"date": "2021-04-07", "downloads": 36, "pkg": "clumper"}
+{"date": "2021-04-08", "downloads": 12, "pkg": "clumper"}
+{"date": "2021-04-09", "downloads": 26, "pkg": "clumper"}
+{"date": "2021-04-10", "downloads": 93, "pkg": "clumper"}
+{"date": "2021-04-11", "downloads": 42, "pkg": "clumper"}
+{"date": "2021-04-12", "downloads": 53, "pkg": "clumper"}
