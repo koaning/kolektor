@@ -3,7 +3,7 @@ name: Kollekt GitHub
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '* * * * *'
+    - cron:  '0 9 * * *'
 
 jobs:
   scheduled:
@@ -29,5 +29,3 @@ jobs:
         timestamp=$(date -u)
         git commit -m "Latest data: ${timestamp}" || exit 0
         git push
-        
-        
