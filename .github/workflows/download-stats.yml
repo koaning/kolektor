@@ -1,0 +1,32 @@
+name: Scrape latest data
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '* * * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v2
+    - name: Fetch latest data
+      run: |-
+        python download/pepy.py scikit-lego >> data/pepy/scikit-lego.jsonl
+        python download/pepy.py human-learn >> data/pepy/human-learn.jsonl
+        python download/pepy.py whatlies >> data/pepy/whatlies.jsonl
+        python download/pepy.py drawdata >> data/pepy/drawdata.jsonl
+        python download/pepy.py tokenwiser >> data/pepy/tokenwiser.jsonl
+        python download/pepy.py memo >> data/pepy/memo.jsonl
+        python download/pepy.py clumper >> data/pepy/clumper.jsonl
+        python download/pepy.py mktestdocs >> data/pepy/mktestdocs.jsonl
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
