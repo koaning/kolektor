@@ -1,4 +1,4 @@
-name: Scrape latest data
+name: Kollekt GitHub
 
 on:
   push:
