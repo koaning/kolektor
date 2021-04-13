@@ -26,8 +26,8 @@ def download(project):
     data = [{"date":k, "values": sum(v.values())} for k, v in json.loads(txt)['downloads'].items()]
     yesterday = str(date.today() - timedelta(days=1))
     for d in data:
-        if d['date'] == yesterday:
-            print(d)
+        # if d['date'] == yesterday:
+            print(json.dumps(d))
     
 if __name__ == "__main__":
     typer.run(download)
