@@ -1,7 +1,6 @@
 name: Kollekt GitHub
 
 on:
-  push:
   workflow_dispatch:
   schedule:
     - cron:  '* * * * *'
