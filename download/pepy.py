@@ -3,7 +3,6 @@ import urllib
 from datetime import date, timedelta
 
 import typer 
-from clumper import Clumper
 
 
 header= {
