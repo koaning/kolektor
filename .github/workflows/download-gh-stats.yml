@@ -13,14 +13,14 @@ jobs:
       uses: actions/checkout@v2
     - name: Fetch latest data
       run: |-
-        curl https://api.github.com/repos/koaning/scikit-lego | jq -c "{stars: .stargazers_count, forks:.forks, issues: .open_issues, subscribers: .subscribers_count, pushed: .pushed_at, update: .updated_at}" > data/github/scikit-lego.jsonl
-        curl https://api.github.com/repos/koaning/memo | jq -c "{stars: .stargazers_count, forks:.forks, issues: .open_issues, subscribers: .subscribers_count, pushed: .pushed_at, update: .updated_at}" > data/github/memo.jsonl
-        curl https://api.github.com/repos/koaning/human-learn | jq -c "{stars: .stargazers_count, forks:.forks, issues: .open_issues, subscribers: .subscribers_count, pushed: .pushed_at, update: .updated_at}" > data/github/human-learn.jsonl
-        curl https://api.github.com/repos/koaning/whatlies | jq -c "{stars: .stargazers_count, forks:.forks, issues: .open_issues, subscribers: .subscribers_count, pushed: .pushed_at, update: .updated_at}" > data/github/whatlies.jsonl
-        curl https://api.github.com/repos/koaning/tokenwiser | jq -c "{stars: .stargazers_count, forks:.forks, issues: .open_issues, subscribers: .subscribers_count, pushed: .pushed_at, update: .updated_at}" > data/github/tokenwiser.jsonl
-        curl https://api.github.com/repos/koaning/clumper | jq -c "{stars: .stargazers_count, forks:.forks, issues: .open_issues, subscribers: .subscribers_count, pushed: .pushed_at, update: .updated_at}" > data/github/clumper.jsonl
-        curl https://api.github.com/repos/koaning/mktestdocs | jq -c "{stars: .stargazers_count, forks:.forks, issues: .open_issues, subscribers: .subscribers_count, pushed: .pushed_at, update: .updated_at}" > data/github/mktestdocs.jsonl
-        curl https://api.github.com/repos/koaning/drawdata | jq -c "{stars: .stargazers_count, forks:.forks, issues: .open_issues, subscribers: .subscribers_count, pushed: .pushed_at, update: .updated_at}" > data/github/drawdata.jsonl
+        curl https://api.github.com/repos/koaning/scikit-lego | jq -c "{stars: .stargazers_count, forks:.forks, issues: .open_issues, subscribers: .subscribers_count, pushed: .pushed_at, update: .updated_at}" >> data/github/scikit-lego.jsonl
+        curl https://api.github.com/repos/koaning/memo | jq -c "{stars: .stargazers_count, forks:.forks, issues: .open_issues, subscribers: .subscribers_count, pushed: .pushed_at, update: .updated_at}" >> data/github/memo.jsonl
+        curl https://api.github.com/repos/koaning/human-learn | jq -c "{stars: .stargazers_count, forks:.forks, issues: .open_issues, subscribers: .subscribers_count, pushed: .pushed_at, update: .updated_at}" >> data/github/human-learn.jsonl
+        curl https://api.github.com/repos/koaning/whatlies | jq -c "{stars: .stargazers_count, forks:.forks, issues: .open_issues, subscribers: .subscribers_count, pushed: .pushed_at, update: .updated_at}" >> data/github/whatlies.jsonl
+        curl https://api.github.com/repos/koaning/tokenwiser | jq -c "{stars: .stargazers_count, forks:.forks, issues: .open_issues, subscribers: .subscribers_count, pushed: .pushed_at, update: .updated_at}" >> data/github/tokenwiser.jsonl
+        curl https://api.github.com/repos/koaning/clumper | jq -c "{stars: .stargazers_count, forks:.forks, issues: .open_issues, subscribers: .subscribers_count, pushed: .pushed_at, update: .updated_at}" >> data/github/clumper.jsonl
+        curl https://api.github.com/repos/koaning/mktestdocs | jq -c "{stars: .stargazers_count, forks:.forks, issues: .open_issues, subscribers: .subscribers_count, pushed: .pushed_at, update: .updated_at}" >> data/github/mktestdocs.jsonl
+        curl https://api.github.com/repos/koaning/drawdata | jq -c "{stars: .stargazers_count, forks:.forks, issues: .open_issues, subscribers: .subscribers_count, pushed: .pushed_at, update: .updated_at}" >> data/github/drawdata.jsonl
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
