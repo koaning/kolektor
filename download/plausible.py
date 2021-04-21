@@ -4,7 +4,7 @@ from datetime import date, timedelta
 from clumper import Clumper
 
 if __name__ == "__main__":
-    yesterday = str(date.today() - timedelta(days=i))
+    yesterday = str(date.today() - timedelta(days=1))
     url = f"https://plausible.io/api/stats/calmcode.io/main-graph?period=day&date={yesterday}"
     clump = Clumper.read_json(url)
     data = {d['name'].replace(" ", "-").lower(): d['count'] 
