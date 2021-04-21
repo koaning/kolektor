@@ -1,4 +1,4 @@
-name: Kollekt Pepy
+name: Kollekt Plausible
 
 on:
   workflow_dispatch:
