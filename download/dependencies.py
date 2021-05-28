@@ -67,3 +67,9 @@ if __name__ == "__main__":
                 dep=lambda d: clean_dep(d['dep_str']))
         .drop("dep_str")
         .write_csv("data/dependencies/dependencies.csv"))
+    
+    (Clumper
+        .read_csv("data/dependencies/dependencies.csv")
+        .select("project")
+        .drop_duplicates()
+        .write_csv("data/dependencies/nodes.csv"))
