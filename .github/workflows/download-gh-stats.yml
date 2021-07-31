@@ -22,10 +22,6 @@ jobs:
         curl https://api.github.com/repos/koaning/mktestdocs | jq -c "{stars: .stargazers_count, forks:.forks, issues: .open_issues, subscribers: .subscribers_count, pushed: .pushed_at, update: .updated_at, date: now|todate}" >> data/github/mktestdocs.jsonl
         curl https://api.github.com/repos/koaning/drawdata | jq -c "{stars: .stargazers_count, forks:.forks, issues: .open_issues, subscribers: .subscribers_count, pushed: .pushed_at, update: .updated_at, date: now|todate}" >> data/github/drawdata.jsonl
         curl https://api.github.com/repos/koaning/pytest-duration-insights | jq -c "{stars: .stargazers_count, forks:.forks, issues: .open_issues, subscribers: .subscribers_count, pushed: .pushed_at, update: .updated_at, date: now|todate}" >> data/github/pytest-duration-insights.jsonl
-    - name: Concatenate it all
-      run: |-
-        python -m pip install clumper typer
-        python common/concat.py data/github/*.jsonl data/github/all.csv
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
